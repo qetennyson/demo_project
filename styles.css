@@ -1,9 +1,4 @@
-h1 {
-    color: blue;
-}
-
-.col-sm-4 {
-    border-style: solid;
-    border-width: 2px;
-    
+.body-text1 {
+    max-width: 75%;
+    display: none;
 }
